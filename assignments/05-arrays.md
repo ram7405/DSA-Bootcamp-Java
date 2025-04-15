@@ -29,7 +29,7 @@
 24. ✅[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 25. ✅[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 26. ✅[Plus One](https://leetcode.com/problems/plus-one/)
-27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+27. ✅[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
 ### Medium
@@ -37,10 +37,10 @@
 2. ✅[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
 4. ✅[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+5. ✅[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 7. [Jump Game](https://leetcode.com/problems/jump-game/)
-8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+8. ✅[Rotate Array](https://leetcode.com/problems/rotate-array/)
 9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 10. [House Robber](https://leetcode.com/problems/house-robber/)
 
